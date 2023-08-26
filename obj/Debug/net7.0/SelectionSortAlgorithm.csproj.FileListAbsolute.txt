@@ -1,0 +1,15 @@
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/bin/Debug/net7.0/SelectionSortAlgorithm
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/bin/Debug/net7.0/SelectionSortAlgorithm.deps.json
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/bin/Debug/net7.0/SelectionSortAlgorithm.runtimeconfig.json
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/bin/Debug/net7.0/SelectionSortAlgorithm.dll
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/bin/Debug/net7.0/SelectionSortAlgorithm.pdb
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.csproj.AssemblyReference.cache
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.AssemblyInfoInputs.cache
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.AssemblyInfo.cs
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.csproj.CoreCompileInputs.cache
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.dll
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/refint/SelectionSortAlgorithm.dll
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.pdb
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/SelectionSortAlgorithm.genruntimeconfig.cache
+/Users/burakkaracakaya/Projects/SelectionSortAlgorithm/SelectionSortAlgorithm/obj/Debug/net7.0/ref/SelectionSortAlgorithm.dll
